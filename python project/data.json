@@ -1,0 +1,17 @@
+{
+    "users": [
+        {
+            "username": "1234567890",
+            "password": "1234567890"
+        }
+    ],
+    "profiles": {
+        "1234567890": {
+            "career_goals": [],
+            "skills_log": [],
+            "daily_tasks": [],
+            "achievements": [],
+            "interview_qas": []
+        }
+    }
+}
